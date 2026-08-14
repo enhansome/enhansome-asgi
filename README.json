@@ -1,0 +1,525 @@
+{
+  "items": [
+    {
+      "description": "Frameworks for building ASGI web applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FastAPI",
+          "description": "A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:19:26Z",
+            "owner": "fastapi",
+            "repo": "fastapi",
+            "stars": 101583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Litestar",
+          "description": "A high-performance ASGI framework, which offers msgspec-based message parsing, Depdency-Injection, Authentication, OpenAPI docs, and more. Supports HTTP and Websockets. Supports asyncio and trio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:35:14Z",
+            "owner": "msgspec",
+            "repo": "msgspec",
+            "stars": 4008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackSheep",
+          "description": "BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T03:20:19Z",
+            "owner": "Neoteroi",
+            "repo": "BlackSheep",
+            "stars": 2354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guillotina",
+          "description": "Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T11:27:55Z",
+            "owner": "plone",
+            "repo": "guillotina",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tremolo",
+          "description": "Zero dependency ASGI server and web framework for Python. Request and response limits, bandwidth throttling, resumable downloads, multipart form uploads / streaming downloads, worker reloading. Only 2,500 lines with a focus on minimalism and stability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T10:28:09Z",
+            "owner": "nggit",
+            "repo": "tremolo",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asgineer",
+          "description": "A really thin ASGI web framework, which includes support for long polling, SSE and websockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T14:07:12Z",
+            "owner": "almarklein",
+            "repo": "asgineer",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quart",
+          "description": "A Python ASGI web microframework whose API is a superset of the Flask API. Supports HTTP (incl. SSE and HTTP/2 server push) and WebSockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-12T16:51:32Z",
+            "owner": "pgjones",
+            "repo": "quart",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Application frameworks"
+    },
+    {
+      "description": "Real-world applications that run on ASGI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Datasette",
+          "description": "A tool for exploring and publishing data, including ASGI-compatible components and plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T00:11:42Z",
+            "owner": "simonw",
+            "repo": "datasette",
+            "stars": 11381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASGIWebDAV",
+          "description": "An asynchronous WebDAV server implementation. Support multi-provider, multi-account and permission control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T03:23:35Z",
+            "owner": "rexzhang",
+            "repo": "asgi-webdav",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "End-user applications"
+    },
+    {
+      "description": "Packages for building GraphQL APIs via ASGI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ariadne",
+          "description": "A schema first Python library for implementing GraphQL servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:52:20Z",
+            "owner": "mirumee",
+            "repo": "ariadne",
+            "stars": 2342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tartiflette-asgi",
+          "description": "ASGI support for the Tartiflette GraphQL engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T07:57:25Z",
+            "owner": "tartiflette",
+            "repo": "tartiflette-asgi",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "GraphQL"
+    },
+    {
+      "description": "Packages for monitoring ASGI web applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "asgi-correlation-id",
+          "description": "Request/Correlation ID logging middleware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T15:09:21Z",
+            "owner": "snok",
+            "repo": "asgi-correlation-id",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apitally",
+          "description": "Simple, privacy-focused API monitoring, analytics and request logging for popular ASGI frameworks (including FastAPI, Django, Starlette, Litestar).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:47:07Z",
+            "owner": "apitally",
+            "repo": "apitally-py",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timing-asgi",
+          "description": "ASGI middleware to record and emit timing metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T09:27:19Z",
+            "owner": "steinnes",
+            "repo": "timing-asgi",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "Packages for use when running ASGI web applications behind proxies, or proxying other servers via ASGI applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ProxyHeadersMiddleware",
+          "description": "Use and headers set by a known and trusted proxy to make and reference the connecting client (shipped with Uvicorn).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:47:26Z",
+            "owner": "Kludex",
+            "repo": "uvicorn",
+            "stars": 10900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgiproxy",
+          "description": "Tools for building HTTP and Websocket proxies for ASGI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T07:45:53Z",
+            "owner": "valohai",
+            "repo": "asgiproxy",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgi-proxy-lib",
+          "description": "An ASGI function for proxying to a backend over HTTP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-14T21:52:10Z",
+            "owner": "simonw",
+            "repo": "asgi-proxy-lib",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Proxies"
+    },
+    {
+      "description": "Content about ASGI itself: concepts, history, usage, etc.",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "Software that experiments with ASGI or otherwise provides \"No maintenance intended\" code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "py-frameworks-bench",
+          "description": "A benchmark for (mostly-ASGI) Python async frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-11T21:29:53Z",
+            "owner": "klen",
+            "repo": "py-frameworks-bench",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxyx",
+          "description": "Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-26T21:00:25Z",
+            "owner": "florimondmanca",
+            "repo": "proxyx",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanoasgi",
+          "description": "A tiny zero-dependency ASGI web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-21T18:28:46Z",
+            "owner": "qweeze",
+            "repo": "nanoasgi",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgi-routing",
+          "description": "A high performance router written in Rust for the ASGI ecosystem. Built on top of and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-27T03:08:02Z",
+            "owner": "adriangb",
+            "repo": "asgi-routing",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgi-background",
+          "description": "Background tasks for any ASGI framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-03T20:35:29Z",
+            "owner": "adriangb",
+            "repo": "asgi-background",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgi-lifespan-middleware",
+          "description": "ASGI middlewate to support ASGI lifespans using a simple async context manager interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-27T03:13:55Z",
+            "owner": "adriangb",
+            "repo": "asgi-lifespan",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Experiments and examples"
+    },
+    {
+      "description": "Packages and components for managing the security of ASGI web applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "asgi-ratelimit",
+          "description": "A customizable rate limiting ASGI middleware, with regex path matching support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T21:40:02Z",
+            "owner": "abersheeran",
+            "repo": "asgi-ratelimit",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asgi-csrf",
+          "description": "ASGI middleware for protecting against CSRF attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T01:04:32Z",
+            "owner": "simonw",
+            "repo": "asgi-csrf",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "Packages and components for converting the format of data in and out of ASGI web applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "msgpack-asgi",
+          "description": "Drop-in MessagePack support for ASGI apps and frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T08:07:28Z",
+            "owner": "florimondmanca",
+            "repo": "msgpack-asgi",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brotli-asgi",
+          "description": "Response content compression using Brotli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-02T08:01:18Z",
+            "owner": "fullonic",
+            "repo": "brotli-asgi",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
+      "description": "Web servers for ASGI applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Granian",
+          "description": "A high performance Rust HTTP server for Python applications supporting ASGI/3 ASGI/3, RSGI and WSGI interfaces. Currenlty implementing HTTP 1 and 2 (eventually 3), HTTPS and websockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T18:09:20Z",
+            "owner": "emmett-framework",
+            "repo": "granian",
+            "stars": 5549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daphne",
+          "description": "An HTTP, HTTP2 and WebSocket protocol server for ASGI, developed to power Django Channels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T13:15:31Z",
+            "owner": "django",
+            "repo": "daphne",
+            "stars": 2679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hypercorn",
+          "description": "An ASGI server based on the sans-io hyper, h11, h2, and wsproto libraries. Supports HTTP/1, HTTP/2, WebSockets, ASGI 2.0 and ASGI 3.0. Compatible with asyncio, uvloop and trio worker types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-08T13:49:26Z",
+            "owner": "pgjones",
+            "repo": "hypercorn",
+            "stars": 1599
+          }
+        }
+      ],
+      "title": "Servers"
+    },
+    {
+      "description": "Packages for testing ASGI applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "asgi-lifespan",
+          "description": "Programmatic startup/shutdown of ASGI apps. Allows testing an ASGI app without having to spin up a server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T07:22:38Z",
+            "owner": "florimondmanca",
+            "repo": "asgi-lifespan",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-asgi-testclient",
+          "description": "A framework-agnostic library for testing ASGI web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-29T14:52:47Z",
+            "owner": "vinissimus",
+            "repo": "async-asgi-testclient",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "Testing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:58:04.355Z",
+    "original_repository": "florimondmanca/awesome-asgi",
+    "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
+    "enhanced_repository": "enhansome/enhansome-asgi",
+    "enhanced_repository_description": null,
+    "title": "awesome-asgi with stars"
+  }
+}
