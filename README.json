@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T05:17:14Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101616
+            "stars": 101634
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4024
+            "stars": 4027
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-06-16T03:20:19Z",
             "owner": "Neoteroi",
             "repo": "BlackSheep",
-            "stars": 2355
+            "stars": 2356
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11385
+            "stars": 11384
           }
         },
         {
@@ -231,10 +231,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:47:26Z",
+            "last_commit": "2026-08-16T19:07:08Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10906
+            "stars": 10908
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2026-08-05T18:09:20Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5551
+            "stars": 5554
           }
         },
         {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:55:43.660Z",
+    "last_updated": "2026-08-17T03:57:52.233Z",
     "original_repository": "florimondmanca/awesome-asgi",
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
     "enhanced_repository": "enhansome/enhansome-asgi",
