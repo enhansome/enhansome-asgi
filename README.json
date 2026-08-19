@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160919119,
             "language": "Python",
-            "last_commit": "2026-08-18T19:46:42Z",
+            "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101683
+            "stars": 101691
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332952543,
             "language": "Python",
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158754800,
             "language": "Python",
             "last_commit": "2026-06-16T03:20:19Z",
             "owner": "Neoteroi",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83574500,
             "language": "Python",
             "last_commit": "2026-08-18T08:32:00Z",
             "owner": "plone",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 596137881,
             "language": "Python",
             "last_commit": "2026-07-01T10:28:09Z",
             "owner": "nggit",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149346140,
             "language": "Python",
             "last_commit": "2025-11-07T14:07:12Z",
             "owner": "almarklein",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511281150,
             "language": null,
             "last_commit": "2022-12-12T16:51:32Z",
             "owner": "pgjones",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107914493,
             "language": "Python",
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11387
+            "stars": 11388
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331906236,
             "language": "Python",
             "last_commit": "2026-08-05T03:23:35Z",
             "owner": "rexzhang",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140265025,
             "language": "Python",
             "last_commit": "2026-08-06T12:52:20Z",
             "owner": "mirumee",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182316472,
             "language": "Python",
             "last_commit": "2023-06-26T07:57:25Z",
             "owner": "tartiflette",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421007644,
             "language": "Python",
             "last_commit": "2026-06-09T15:09:21Z",
             "owner": "snok",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661287015,
             "language": "Python",
             "last_commit": "2026-08-18T16:47:02Z",
             "owner": "apitally",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169331566,
             "language": "Python",
             "last_commit": "2026-02-17T09:27:19Z",
             "owner": "steinnes",
@@ -230,8 +244,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-18T11:23:44Z",
+            "last_commit": "2026-08-19T06:01:10Z",
             "owner": "Kludex",
             "repo": "uvicorn",
             "stars": 10909
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227810123,
             "language": "Python",
             "last_commit": "2025-08-04T07:45:53Z",
             "owner": "valohai",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660835887,
             "language": "Python",
             "last_commit": "2025-07-14T21:52:10Z",
             "owner": "simonw",
@@ -270,98 +287,106 @@
     },
     {
       "description": "Content about ASGI itself: concepts, history, usage, etc.",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "Software that experiments with ASGI or otherwise provides \"No maintenance intended\" code.",
       "items": [
         {
-          "node_type": "item",
-          "title": "py-frameworks-bench",
-          "description": "A benchmark for (mostly-ASGI) Python async frameworks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-11T21:29:53Z",
-            "owner": "klen",
-            "repo": "py-frameworks-bench",
-            "stars": 721
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "proxyx",
-          "description": "Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-09-26T21:00:25Z",
-            "owner": "florimondmanca",
-            "repo": "proxyx",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nanoasgi",
-          "description": "A tiny zero-dependency ASGI web framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-12-21T18:28:46Z",
-            "owner": "qweeze",
-            "repo": "nanoasgi",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "asgi-routing",
-          "description": "A high performance router written in Rust for the ASGI ecosystem. Built on top of and .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-10-27T03:08:02Z",
-            "owner": "adriangb",
-            "repo": "asgi-routing",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "asgi-background",
-          "description": "Background tasks for any ASGI framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-03T20:35:29Z",
-            "owner": "adriangb",
-            "repo": "asgi-background",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "asgi-lifespan-middleware",
-          "description": "ASGI middlewate to support ASGI lifespans using a simple async context manager interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-27T03:13:55Z",
-            "owner": "adriangb",
-            "repo": "asgi-lifespan",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "py-frameworks-bench",
+              "description": "A benchmark for (mostly-ASGI) Python async frameworks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34877469,
+                "language": "Python",
+                "last_commit": "2024-05-11T21:29:53Z",
+                "owner": "klen",
+                "repo": "py-frameworks-bench",
+                "stars": 721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "proxyx",
+              "description": "Proof of concept for a lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280219952,
+                "language": "Python",
+                "last_commit": "2021-09-26T21:00:25Z",
+                "owner": "florimondmanca",
+                "repo": "proxyx",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nanoasgi",
+              "description": "A tiny zero-dependency ASGI web framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317949988,
+                "language": "Python",
+                "last_commit": "2020-12-21T18:28:46Z",
+                "owner": "qweeze",
+                "repo": "nanoasgi",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asgi-routing",
+              "description": "A high performance router written in Rust for the ASGI ecosystem. Built on top of and .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513770810,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-27T03:08:02Z",
+                "owner": "adriangb",
+                "repo": "asgi-routing",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asgi-background",
+              "description": "Background tasks for any ASGI framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509269533,
+                "language": "Python",
+                "last_commit": "2022-11-03T20:35:29Z",
+                "owner": "adriangb",
+                "repo": "asgi-background",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asgi-lifespan-middleware",
+              "description": "ASGI middlewate to support ASGI lifespans using a simple async context manager interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509291939,
+                "language": "Python",
+                "last_commit": "2022-10-27T03:13:55Z",
+                "owner": "adriangb",
+                "repo": "asgi-lifespan",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "Software that experiments with ASGI or otherwise provides \"No maintenance intended\" code.",
+          "node_type": "group",
+          "title": "Experiments and examples"
         }
       ],
-      "title": "Experiments and examples"
+      "title": "Resources"
     },
     {
       "description": "Packages and components for managing the security of ASGI web applications.",
@@ -373,6 +398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265467929,
             "language": "Python",
             "last_commit": "2024-08-03T21:40:02Z",
             "owner": "abersheeran",
@@ -387,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244240392,
             "language": "Python",
             "last_commit": "2024-11-15T01:04:32Z",
             "owner": "simonw",
@@ -407,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219042240,
             "language": "Python",
             "last_commit": "2026-02-03T08:07:28Z",
             "owner": "florimondmanca",
@@ -421,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267262603,
             "language": "Python",
             "last_commit": "2026-01-02T08:01:18Z",
             "owner": "fullonic",
@@ -441,6 +470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482022441,
             "language": "Rust",
             "last_commit": "2026-08-18T09:23:28Z",
             "owner": "emmett-framework",
@@ -455,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48501841,
             "language": "Python",
             "last_commit": "2026-07-21T13:15:31Z",
             "owner": "django",
@@ -469,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135839606,
             "language": "Python",
             "last_commit": "2025-11-08T13:49:26Z",
             "owner": "pgjones",
@@ -489,6 +521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211390375,
             "language": "Python",
             "last_commit": "2026-02-11T07:22:38Z",
             "owner": "florimondmanca",
@@ -503,6 +536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181481577,
             "language": "Python",
             "last_commit": "2023-06-29T14:52:47Z",
             "owner": "vinissimus",
@@ -515,8 +549,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:54:38.911Z",
+    "last_updated": "2026-08-19T12:18:39.166Z",
     "original_repository": "florimondmanca/awesome-asgi",
+    "original_repository_id": 200474989,
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
     "enhanced_repository": "enhansome/enhansome-asgi",
     "enhanced_repository_description": null,
