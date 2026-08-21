@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101712
+            "stars": 101737
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4037
+            "stars": 4041
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11390
+            "stars": 11395
           }
         },
         {
@@ -210,7 +210,7 @@
             "archived": false,
             "id": 661287015,
             "language": "Python",
-            "last_commit": "2026-08-18T16:47:02Z",
+            "last_commit": "2026-08-20T22:27:13Z",
             "owner": "apitally",
             "repo": "apitally-py",
             "stars": 224
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-19T06:01:10Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10912
+            "stars": 10918
           }
         },
         {
@@ -490,7 +490,7 @@
             "last_commit": "2026-07-21T13:15:31Z",
             "owner": "django",
             "repo": "daphne",
-            "stars": 2677
+            "stars": 2678
           }
         },
         {
@@ -505,7 +505,7 @@
             "last_commit": "2025-11-08T13:49:26Z",
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1598
+            "stars": 1599
           }
         }
       ],
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:54:23.713Z",
+    "last_updated": "2026-08-21T03:56:48.250Z",
     "original_repository": "florimondmanca/awesome-asgi",
     "original_repository_id": 200474989,
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
