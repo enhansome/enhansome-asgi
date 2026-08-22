@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101737
+            "stars": 101745
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4041
+            "stars": 4049
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 83574500,
             "language": "Python",
-            "last_commit": "2026-08-18T08:32:00Z",
+            "last_commit": "2026-08-21T09:39:14Z",
             "owner": "plone",
             "repo": "guillotina",
             "stars": 208
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11395
+            "stars": 11397
           }
         },
         {
@@ -210,7 +210,7 @@
             "archived": false,
             "id": 661287015,
             "language": "Python",
-            "last_commit": "2026-08-20T22:27:13Z",
+            "last_commit": "2026-08-22T02:40:22Z",
             "owner": "apitally",
             "repo": "apitally-py",
             "stars": 224
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-19T06:01:10Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10918
+            "stars": 10920
           }
         },
         {
@@ -475,7 +475,7 @@
             "last_commit": "2026-08-18T09:23:28Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5560
+            "stars": 5563
           }
         },
         {
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:56:48.250Z",
+    "last_updated": "2026-08-22T03:51:48.407Z",
     "original_repository": "florimondmanca/awesome-asgi",
     "original_repository_id": 200474989,
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
