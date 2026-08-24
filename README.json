@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101764
+            "stars": 101797
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4052
+            "stars": 4053
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11404
+            "stars": 11405
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-22T12:01:01Z",
+            "last_commit": "2026-08-23T06:19:31Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10922
+            "stars": 10923
           }
         },
         {
@@ -302,7 +302,7 @@
                 "last_commit": "2024-05-11T21:29:53Z",
                 "owner": "klen",
                 "repo": "py-frameworks-bench",
-                "stars": 721
+                "stars": 722
               }
             },
             {
@@ -472,7 +472,7 @@
             "archived": false,
             "id": 482022441,
             "language": "Rust",
-            "last_commit": "2026-08-18T09:23:28Z",
+            "last_commit": "2026-08-23T16:48:39Z",
             "owner": "emmett-framework",
             "repo": "granian",
             "stars": 5564
@@ -505,7 +505,7 @@
             "last_commit": "2025-11-08T13:49:26Z",
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1599
+            "stars": 1600
           }
         }
       ],
@@ -549,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:57:19.787Z",
+    "last_updated": "2026-08-24T04:01:43.841Z",
     "original_repository": "florimondmanca/awesome-asgi",
     "original_repository_id": 200474989,
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
