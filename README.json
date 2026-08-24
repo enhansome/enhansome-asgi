@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101797
+            "stars": 101814
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4053
+            "stars": 4056
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-06-09T15:09:21Z",
             "owner": "snok",
             "repo": "asgi-correlation-id",
-            "stars": 641
+            "stars": 642
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-23T06:19:31Z",
+            "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10923
+            "stars": 10924
           }
         },
         {
@@ -288,6 +288,28 @@
     {
       "description": "Content about ASGI itself: concepts, history, usage, etc.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "asgiref",
+              "description": "ASGI reference implementation, including function wrappers, server base classes, type hints, and a WSGI-to-ASGI adapter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48501860,
+                "language": "Python",
+                "last_commit": "2026-08-10T09:04:53Z",
+                "owner": "django",
+                "repo": "asgiref",
+                "stars": 1630
+              }
+            }
+          ],
+          "description": "Reference documentation and implementation for ASGI.",
+          "node_type": "group",
+          "title": "Reference"
+        },
         {
           "children": [
             {
@@ -475,7 +497,7 @@
             "last_commit": "2026-08-23T16:48:39Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5564
+            "stars": 5567
           }
         },
         {
@@ -505,7 +527,7 @@
             "last_commit": "2025-11-08T13:49:26Z",
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1600
+            "stars": 1601
           }
         }
       ],
@@ -549,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:43.841Z",
+    "last_updated": "2026-08-24T14:12:09.698Z",
     "original_repository": "florimondmanca/awesome-asgi",
     "original_repository_id": 200474989,
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
