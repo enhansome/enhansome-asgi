@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101814
+            "stars": 101824
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4056
+            "stars": 4058
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11405
+            "stars": 11407
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 331906236,
             "language": "Python",
-            "last_commit": "2026-08-05T03:23:35Z",
+            "last_commit": "2026-08-24T14:45:08Z",
             "owner": "rexzhang",
             "repo": "asgi-webdav",
             "stars": 89
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10924
+            "stars": 10926
           }
         },
         {
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:09.698Z",
+    "last_updated": "2026-08-25T03:55:25.567Z",
     "original_repository": "florimondmanca/awesome-asgi",
     "original_repository_id": 200474989,
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
