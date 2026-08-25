@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T08:58:11Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101824
+            "stars": 101826
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11407
+            "stars": 11408
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10926
+            "stars": 10927
           }
         },
         {
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:55:25.567Z",
+    "last_updated": "2026-08-25T05:59:49.855Z",
     "original_repository": "florimondmanca/awesome-asgi",
     "original_repository_id": 200474989,
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
