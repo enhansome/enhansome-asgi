@@ -12,10 +12,10 @@
             "archived": false,
             "id": 160919119,
             "language": "Python",
-            "last_commit": "2026-08-25T13:19:29Z",
+            "last_commit": "2026-08-26T17:54:56Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101857
+            "stars": 101873
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4061
+            "stars": 4063
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11411
+            "stars": 11412
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-06-09T15:09:21Z",
             "owner": "snok",
             "repo": "asgi-correlation-id",
-            "stars": 642
+            "stars": 643
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10927
+            "stars": 10928
           }
         },
         {
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-10T09:04:53Z",
                 "owner": "django",
                 "repo": "asgiref",
-                "stars": 1630
+                "stars": 1631
               }
             }
           ],
@@ -512,7 +512,7 @@
             "last_commit": "2026-07-21T13:15:31Z",
             "owner": "django",
             "repo": "daphne",
-            "stars": 2678
+            "stars": 2680
           }
         },
         {
@@ -571,9 +571,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:31.325Z",
-    "original_repository": "florimondmanca/awesome-asgi",
-    "original_repository_id": 200474989,
+    "last_updated": "2026-08-27T11:22:46.357Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 200474989,
+      "language": "Python",
+      "last_commit": "2026-05-02T09:00:14Z",
+      "owner": "florimondmanca",
+      "repo": "awesome-asgi",
+      "stars": 1842
+    },
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
     "enhanced_repository": "enhansome/enhansome-asgi",
     "enhanced_repository_description": null,
