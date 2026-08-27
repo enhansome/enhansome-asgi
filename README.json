@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T17:54:56Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101873
+            "stars": 101879
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10928
+            "stars": 10927
           }
         },
         {
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-10T09:04:53Z",
                 "owner": "django",
                 "repo": "asgiref",
-                "stars": 1631
+                "stars": 1630
               }
             }
           ],
@@ -497,7 +497,7 @@
             "last_commit": "2026-08-23T16:48:39Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5570
+            "stars": 5571
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2026-07-21T13:15:31Z",
             "owner": "django",
             "repo": "daphne",
-            "stars": 2680
+            "stars": 2679
           }
         },
         {
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:46.357Z",
+    "last_updated": "2026-08-27T14:04:55.486Z",
     "original_repository_info": {
       "archived": false,
       "id": 200474989,
