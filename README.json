@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T17:54:56Z",
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101879
-          }
+            "stars": 101902
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-12T07:35:14Z",
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4063
-          }
+            "stars": 4065
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Neoteroi",
             "repo": "BlackSheep",
             "stars": 2358
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "plone",
             "repo": "guillotina",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "nggit",
             "repo": "tremolo",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "almarklein",
             "repo": "asgineer",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "pgjones",
             "repo": "quart",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "Application frameworks"
@@ -126,8 +133,9 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11412
-          }
+            "stars": 11414
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "rexzhang",
             "repo": "asgi-webdav",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "End-user applications"
@@ -162,8 +171,9 @@
             "last_commit": "2026-08-06T12:52:20Z",
             "owner": "mirumee",
             "repo": "ariadne",
-            "stars": 2343
-          }
+            "stars": 2342
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "tartiflette",
             "repo": "tartiflette-asgi",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "GraphQL"
@@ -198,8 +209,9 @@
             "last_commit": "2026-06-09T15:09:21Z",
             "owner": "snok",
             "repo": "asgi-correlation-id",
-            "stars": 643
-          }
+            "stars": 642
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -210,11 +222,12 @@
             "archived": false,
             "id": 661287015,
             "language": "Python",
-            "last_commit": "2026-08-22T02:40:22Z",
+            "last_commit": "2026-08-27T20:07:41Z",
             "owner": "apitally",
             "repo": "apitally-py",
-            "stars": 224
-          }
+            "stars": 223
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -228,8 +241,9 @@
             "last_commit": "2026-02-17T09:27:19Z",
             "owner": "steinnes",
             "repo": "timing-asgi",
-            "stars": 130
-          }
+            "stars": 129
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "Monitoring"
@@ -249,8 +263,9 @@
             "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10927
-          }
+            "stars": 10933
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "valohai",
             "repo": "asgiproxy",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "simonw",
             "repo": "asgi-proxy-lib",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "Proxies"
@@ -299,11 +316,12 @@
                 "archived": false,
                 "id": 48501860,
                 "language": "Python",
-                "last_commit": "2026-08-10T09:04:53Z",
+                "last_commit": "2026-08-28T08:46:31Z",
                 "owner": "django",
                 "repo": "asgiref",
                 "stars": 1630
-              }
+              },
+              "first_seen": "2026-08-28T15:16:00.979Z"
             }
           ],
           "description": "Reference documentation and implementation for ASGI.",
@@ -324,8 +342,9 @@
                 "last_commit": "2024-05-11T21:29:53Z",
                 "owner": "klen",
                 "repo": "py-frameworks-bench",
-                "stars": 722
-              }
+                "stars": 721
+              },
+              "first_seen": "2026-08-28T15:16:00.979Z"
             },
             {
               "node_type": "item",
@@ -340,7 +359,8 @@
                 "owner": "florimondmanca",
                 "repo": "proxyx",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T15:16:00.979Z"
             },
             {
               "node_type": "item",
@@ -355,7 +375,8 @@
                 "owner": "qweeze",
                 "repo": "nanoasgi",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T15:16:00.979Z"
             },
             {
               "node_type": "item",
@@ -370,7 +391,8 @@
                 "owner": "adriangb",
                 "repo": "asgi-routing",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T15:16:00.979Z"
             },
             {
               "node_type": "item",
@@ -385,7 +407,8 @@
                 "owner": "adriangb",
                 "repo": "asgi-background",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:16:00.979Z"
             },
             {
               "node_type": "item",
@@ -400,7 +423,8 @@
                 "owner": "adriangb",
                 "repo": "asgi-lifespan",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T15:16:00.979Z"
             }
           ],
           "description": "Software that experiments with ASGI or otherwise provides \"No maintenance intended\" code.",
@@ -426,7 +450,8 @@
             "owner": "abersheeran",
             "repo": "asgi-ratelimit",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -441,7 +466,8 @@
             "owner": "simonw",
             "repo": "asgi-csrf",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "Security"
@@ -461,8 +487,9 @@
             "last_commit": "2026-02-03T08:07:28Z",
             "owner": "florimondmanca",
             "repo": "msgpack-asgi",
-            "stars": 277
-          }
+            "stars": 276
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -477,7 +504,8 @@
             "owner": "fullonic",
             "repo": "brotli-asgi",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "Serialization"
@@ -497,8 +525,9 @@
             "last_commit": "2026-08-23T16:48:39Z",
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5571
-          }
+            "stars": 5572
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -509,11 +538,12 @@
             "archived": false,
             "id": 48501841,
             "language": "Python",
-            "last_commit": "2026-07-21T13:15:31Z",
+            "last_commit": "2026-08-28T09:13:45Z",
             "owner": "django",
             "repo": "daphne",
             "stars": 2679
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -528,7 +558,8 @@
             "owner": "pgjones",
             "repo": "hypercorn",
             "stars": 1601
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "Servers"
@@ -549,7 +580,8 @@
             "owner": "florimondmanca",
             "repo": "asgi-lifespan",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         },
         {
           "node_type": "item",
@@ -564,14 +596,15 @@
             "owner": "vinissimus",
             "repo": "async-asgi-testclient",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T15:16:00.979Z"
         }
       ],
       "title": "Testing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:04:55.486Z",
+    "last_updated": "2026-08-28T15:16:00.979Z",
     "original_repository_info": {
       "archived": false,
       "id": 200474989,
@@ -579,7 +612,7 @@
       "last_commit": "2026-05-02T09:00:14Z",
       "owner": "florimondmanca",
       "repo": "awesome-asgi",
-      "stars": 1842
+      "stars": 1841
     },
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
     "enhanced_repository": "enhansome/enhansome-asgi",
