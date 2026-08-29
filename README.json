@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "homepage": "https://fastapi.tiangolo.com/",
             "id": 160919119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:54:56Z",
+            "open_issues": 79,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101902
+            "stars": 101913,
+            "topics": [
+              "api",
+              "async",
+              "asyncio",
+              "fastapi",
+              "framework",
+              "json",
+              "json-schema",
+              "openapi",
+              "openapi3",
+              "pydantic",
+              "python",
+              "python-types",
+              "python3",
+              "redoc",
+              "rest",
+              "starlette",
+              "swagger",
+              "swagger-ui",
+              "uvicorn",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -26,12 +52,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML",
+            "homepage": "https://msgspec.dev",
             "id": 332952543,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T07:35:14Z",
+            "open_issues": 233,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4065
+            "stars": 4066,
+            "topics": [
+              "deserialization",
+              "json",
+              "json-schema",
+              "jsonschema",
+              "messagepack",
+              "msgpack",
+              "openapi3",
+              "python",
+              "schema",
+              "serde",
+              "serialization",
+              "toml",
+              "validation",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -42,12 +88,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast ASGI web framework for Python",
+            "homepage": "https://www.neoteroi.dev/blacksheep/",
             "id": 158754800,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-16T03:20:19Z",
+            "open_issues": 11,
             "owner": "Neoteroi",
             "repo": "BlackSheep",
-            "stars": 2358
+            "stars": 2358,
+            "topics": [
+              "asgi",
+              "asyncio",
+              "blacksheep",
+              "framework",
+              "http",
+              "http-server",
+              "python",
+              "server",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -58,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python AsyncIO data API to manage billions of resources",
+            "homepage": "https://guillotina.readthedocs.io/en/latest/",
             "id": 83574500,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T09:39:14Z",
+            "open_issues": 64,
             "owner": "plone",
             "repo": "guillotina",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -74,12 +140,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swiss Army knife, crash-free ASGI server and web framework for handling large file uploads. Zero-dependency.",
+            "homepage": "https://nggit.github.io/tremolo-docs/",
             "id": 596137881,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-01T10:28:09Z",
+            "open_issues": 1,
             "owner": "nggit",
             "repo": "tremolo",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "asgi",
+              "asgi-server",
+              "asyncio",
+              "http-server",
+              "microframework",
+              "minimalism",
+              "python",
+              "python3",
+              "uvloop",
+              "web-framework",
+              "websocket",
+              "websocket-server",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -90,12 +175,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A really thin ASGI web framework",
+            "homepage": "https://asgineer.readthedocs.io",
             "id": 149346140,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-11-07T14:07:12Z",
+            "open_issues": 1,
             "owner": "almarklein",
             "repo": "asgineer",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "asgi",
+              "framework",
+              "python",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -106,12 +201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An async Python micro framework for building web applications. ",
+            "homepage": "https://quart.palletsprojects.com",
             "id": 511281150,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-12-12T16:51:32Z",
+            "open_issues": 0,
             "owner": "pgjones",
             "repo": "quart",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -128,12 +228,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source multi-tool for exploring and publishing data",
+            "homepage": "https://datasette.io",
             "id": 107914493,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T00:11:42Z",
+            "open_issues": 710,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11414
+            "stars": 11415,
+            "topics": [
+              "asgi",
+              "automatic-api",
+              "csv",
+              "datasets",
+              "datasette",
+              "datasette-io",
+              "docker",
+              "json",
+              "python",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -144,12 +261,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An asynchronous WebDAV server implementation, Support multi-provider, multi-account and permission control.",
+            "homepage": "https://rexzhang.github.io/asgi-webdav/",
             "id": 331906236,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:45:08Z",
+            "open_issues": 9,
             "owner": "rexzhang",
             "repo": "asgi-webdav",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "asgi",
+              "asyncio",
+              "docker-container",
+              "webdav",
+              "webdav-server"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -166,12 +294,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for implementing GraphQL servers using schema-first approach. Created with :heart: by Mirumee",
+            "homepage": "https://ariadnegraphql.org",
             "id": 140265025,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-06T12:52:20Z",
+            "open_issues": 37,
             "owner": "mirumee",
             "repo": "ariadne",
-            "stars": 2342
+            "stars": 2342,
+            "topics": [
+              "api",
+              "apollo-graphql",
+              "apollo-python",
+              "ariadne",
+              "asgi",
+              "django",
+              "django-graphql",
+              "graphql",
+              "graphql-python",
+              "graphql-server",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -182,12 +327,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASGI support for the Tartiflette GraphQL engine",
+            "homepage": "https://tartiflette.github.io/tartiflette-asgi",
             "id": 182316472,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-26T07:57:25Z",
+            "open_issues": 14,
             "owner": "tartiflette",
             "repo": "tartiflette-asgi",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "asgi",
+              "async",
+              "graphql",
+              "http",
+              "python",
+              "starlette",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -204,12 +362,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Request ID propagation for ASGI apps",
+            "homepage": null,
             "id": 421007644,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-09T15:09:21Z",
+            "open_issues": 2,
             "owner": "snok",
             "repo": "asgi-correlation-id",
-            "stars": 642
+            "stars": 642,
+            "topics": [
+              "celery",
+              "correlation-id",
+              "logging",
+              "python",
+              "request-id",
+              "sentry",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -220,12 +391,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple API monitoring & analytics for Python apps",
+            "homepage": "https://apitally.io",
             "id": 661287015,
             "language": "Python",
-            "last_commit": "2026-08-27T20:07:41Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:06:03Z",
+            "open_issues": 5,
             "owner": "apitally",
             "repo": "apitally-py",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "api",
+              "api-analytics",
+              "api-logging",
+              "api-monitoring",
+              "api-observability",
+              "blacksheep",
+              "django",
+              "django-ninja",
+              "django-rest-framework",
+              "fastapi",
+              "flask",
+              "litestar",
+              "monitoring",
+              "python",
+              "rest-api",
+              "starlette"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -236,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASGI middleware to record and emit timing metrics (to something like statsd)",
+            "homepage": null,
             "id": 169331566,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-17T09:27:19Z",
+            "open_issues": 4,
             "owner": "steinnes",
             "repo": "timing-asgi",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -258,12 +456,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ASGI web server, for Python. 🦄",
+            "homepage": "https://uvicorn.dev",
             "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-24T13:03:17Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T22:48:46Z",
+            "open_issues": 87,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10933
+            "stars": 10933,
+            "topics": [
+              "asgi",
+              "asyncio",
+              "http",
+              "http-server",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -274,12 +483,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for building HTTP and Websocket proxies for the asynchronous ASGI protocol",
+            "homepage": null,
             "id": 227810123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-04T07:45:53Z",
+            "open_issues": 1,
             "owner": "valohai",
             "repo": "asgiproxy",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "asgi",
+              "http",
+              "proxy",
+              "python",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -290,12 +510,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ASGI function for proxying to a backend over HTTP",
+            "homepage": null,
             "id": 660835887,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-14T21:52:10Z",
+            "open_issues": 5,
             "owner": "simonw",
             "repo": "asgi-proxy-lib",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "asgi",
+              "httpx"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -314,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASGI specification and utilities",
+                "homepage": "https://asgi.readthedocs.io/en/latest/",
                 "id": 48501860,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T08:46:31Z",
+                "open_issues": 64,
                 "owner": "django",
                 "repo": "asgiref",
-                "stars": 1630
+                "stars": 1630,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
             }
@@ -337,12 +570,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another benchmark for some python frameworks",
+                "homepage": "https://klen.github.io/py-frameworks-bench/",
                 "id": 34877469,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-11T21:29:53Z",
+                "open_issues": 20,
                 "owner": "klen",
                 "repo": "py-frameworks-bench",
-                "stars": 721
+                "stars": 721,
+                "topics": [
+                  "benchmark",
+                  "python-frameworks"
+                ]
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
             },
@@ -353,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[No maintenance intended] Proof of concept lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.",
+                "homepage": null,
                 "id": 280219952,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-26T21:00:25Z",
+                "open_issues": 0,
                 "owner": "florimondmanca",
                 "repo": "proxyx",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
             },
@@ -369,12 +615,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toy ASGI web framework",
+                "homepage": null,
                 "id": 317949988,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2020-12-21T18:28:46Z",
+                "open_issues": 0,
                 "owner": "qweeze",
                 "repo": "nanoasgi",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "asgi",
+                  "asyncio",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
             },
@@ -385,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 513770810,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-10-27T03:08:02Z",
+                "open_issues": 0,
                 "owner": "adriangb",
                 "repo": "asgi-routing",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
             },
@@ -401,12 +661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Background tasks for ASGI web frameworks",
+                "homepage": null,
                 "id": 509269533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-03T20:35:29Z",
+                "open_issues": 0,
                 "owner": "adriangb",
                 "repo": "asgi-background",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
             },
@@ -417,12 +682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Middleware to support ASGI lifespans as async context managers",
+                "homepage": null,
                 "id": 509291939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-27T03:13:55Z",
+                "open_issues": 1,
                 "owner": "adriangb",
                 "repo": "asgi-lifespan",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
             }
@@ -444,12 +714,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ASGI Middleware to rate limit",
+            "homepage": null,
             "id": 265467929,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-03T21:40:02Z",
+            "open_issues": 5,
             "owner": "abersheeran",
             "repo": "asgi-ratelimit",
-            "stars": 344
+            "stars": 344,
+            "topics": [
+              "asgi",
+              "asgi-middleware",
+              "asgi-ratelimit"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -460,12 +739,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASGI middleware for protecting against CSRF attacks",
+            "homepage": null,
             "id": 244240392,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-15T01:04:32Z",
+            "open_issues": 6,
             "owner": "simonw",
             "repo": "asgi-csrf",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "asgi",
+              "asgi-middleware",
+              "csrf"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -482,12 +770,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drop-in MessagePack support for ASGI applications and frameworks",
+            "homepage": "https://pypi.org/project/msgpack-asgi",
             "id": 219042240,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-03T08:07:28Z",
+            "open_issues": 1,
             "owner": "florimondmanca",
             "repo": "msgpack-asgi",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "asgi",
+              "fastapi",
+              "json",
+              "messagepack",
+              "middleware",
+              "msgpack",
+              "python",
+              "starlette"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -498,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compression AGSI middleware using brotli.",
+            "homepage": null,
             "id": 267262603,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-02T08:01:18Z",
+            "open_issues": 4,
             "owner": "fullonic",
             "repo": "brotli-asgi",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -520,12 +827,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust HTTP server for Python applications",
+            "homepage": null,
             "id": 482022441,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T16:48:39Z",
+            "open_issues": 38,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5572
+            "stars": 5573,
+            "topics": [
+              "asgi",
+              "asyncio",
+              "http",
+              "http-server",
+              "python",
+              "rsgi",
+              "rust",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -536,12 +857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django Channels HTTP/WebSocket server",
+            "homepage": null,
             "id": 48501841,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:13:45Z",
+            "open_issues": 39,
             "owner": "django",
             "repo": "daphne",
-            "stars": 2679
+            "stars": 2679,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -552,12 +878,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.",
+            "homepage": null,
             "id": 135839606,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-08T13:49:26Z",
+            "open_issues": 146,
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1601
+            "stars": 1601,
+            "topics": [
+              "asgi",
+              "asyncio",
+              "http-server",
+              "http2",
+              "http3",
+              "python",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -574,12 +913,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programmatic startup/shutdown of ASGI apps.",
+            "homepage": "https://pypi.org/project/asgi-lifespan",
             "id": 211390375,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-11T07:22:38Z",
+            "open_issues": 7,
             "owner": "florimondmanca",
             "repo": "asgi-lifespan",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "asgi",
+              "async",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         },
@@ -590,12 +938,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework-agnostic library for testing ASGI web applications",
+            "homepage": null,
             "id": 181481577,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-29T14:52:47Z",
+            "open_issues": 15,
             "owner": "vinissimus",
             "repo": "async-asgi-testclient",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "asgi",
+              "guillotina",
+              "quart",
+              "starlette",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
         }
@@ -604,15 +963,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:00.979Z",
+    "last_updated": "2026-08-29T04:30:33.656Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
+      "homepage": null,
       "id": 200474989,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-05-02T09:00:14Z",
+      "open_issues": 18,
       "owner": "florimondmanca",
       "repo": "awesome-asgi",
-      "stars": 1841
+      "stars": 1841,
+      "topics": [
+        "asgi",
+        "awesome",
+        "awesome-list",
+        "python"
+      ]
     },
     "original_repository_sha": "fba7e7f2049fd24fa6b43371ca7869d7f87f0eb1",
     "enhanced_repository": "enhansome/enhansome-asgi",
