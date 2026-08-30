@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-26T17:54:56Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 101920,
+            "stars": 101934,
             "topics": [
               "api",
               "async",
@@ -61,7 +61,7 @@
             "open_issues": 233,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4067,
+            "stars": 4072,
             "topics": [
               "deserialization",
               "json",
@@ -237,7 +237,7 @@
             "open_issues": 710,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11415,
+            "stars": 11414,
             "topics": [
               "asgi",
               "automatic-api",
@@ -333,7 +333,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-06-26T07:57:25Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "tartiflette",
             "repo": "tartiflette-asgi",
             "stars": 99,
@@ -396,7 +396,7 @@
             "id": 661287015,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:58:08Z",
+            "last_commit": "2026-08-29T09:58:55Z",
             "open_issues": 5,
             "owner": "apitally",
             "repo": "apitally-py",
@@ -461,11 +461,11 @@
             "id": 92946971,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T09:02:15Z",
+            "last_commit": "2026-08-30T07:13:54Z",
             "open_issues": 85,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10933,
+            "stars": 10934,
             "topics": [
               "asgi",
               "asyncio",
@@ -548,10 +548,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T08:46:31Z",
-                "open_issues": 64,
+                "open_issues": 66,
                 "owner": "django",
                 "repo": "asgiref",
-                "stars": 1630,
+                "stars": 1631,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
@@ -836,7 +836,7 @@
             "open_issues": 38,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5573,
+            "stars": 5576,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:58:26.476Z",
+    "last_updated": "2026-08-30T09:09:04.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
