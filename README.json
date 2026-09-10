@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T20:59:55Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 102209,
+            "stars": 102222,
             "topics": [
               "api",
               "async",
@@ -57,11 +57,11 @@
             "id": 332952543,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T07:35:05Z",
-            "open_issues": 231,
+            "last_commit": "2026-09-09T22:52:31Z",
+            "open_issues": 227,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4092,
+            "stars": 4093,
             "topics": [
               "deserialization",
               "json",
@@ -94,7 +94,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-16T03:20:19Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "Neoteroi",
             "repo": "BlackSheep",
             "stars": 2359,
@@ -237,7 +237,7 @@
             "open_issues": 715,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11447,
+            "stars": 11448,
             "topics": [
               "asgi",
               "automatic-api",
@@ -303,7 +303,7 @@
             "open_issues": 34,
             "owner": "mirumee",
             "repo": "ariadne",
-            "stars": 2343,
+            "stars": 2342,
             "topics": [
               "api",
               "apollo-graphql",
@@ -396,7 +396,7 @@
             "id": 661287015,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T06:53:36Z",
+            "last_commit": "2026-09-09T14:15:15Z",
             "open_issues": 6,
             "owner": "apitally",
             "repo": "apitally-py",
@@ -438,7 +438,7 @@
             "open_issues": 4,
             "owner": "steinnes",
             "repo": "timing-asgi",
-            "stars": 129,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
@@ -462,10 +462,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-09T07:23:55Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10953,
+            "stars": 10954,
             "topics": [
               "asgi",
               "asyncio",
@@ -551,7 +551,7 @@
                 "open_issues": 66,
                 "owner": "django",
                 "repo": "asgiref",
-                "stars": 1633,
+                "stars": 1632,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
@@ -779,7 +779,7 @@
             "open_issues": 1,
             "owner": "florimondmanca",
             "repo": "msgpack-asgi",
-            "stars": 276,
+            "stars": 275,
             "topics": [
               "asgi",
               "fastapi",
@@ -836,7 +836,7 @@
             "open_issues": 41,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5619,
+            "stars": 5623,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:03:57.366Z",
+    "last_updated": "2026-09-10T08:03:20.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
