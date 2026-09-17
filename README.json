@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-14T18:49:48Z",
-            "open_issues": 77,
+            "open_issues": 81,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 102356,
+            "stars": 102380,
             "topics": [
               "api",
               "async",
@@ -61,7 +61,7 @@
             "open_issues": 219,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4107,
+            "stars": 4110,
             "topics": [
               "deserialization",
               "json",
@@ -233,11 +233,11 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T00:16:26Z",
-            "open_issues": 665,
+            "last_commit": "2026-09-17T04:23:57Z",
+            "open_issues": 652,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11467,
+            "stars": 11470,
             "topics": [
               "asgi",
               "automatic-api",
@@ -303,7 +303,7 @@
             "open_issues": 34,
             "owner": "mirumee",
             "repo": "ariadne",
-            "stars": 2342,
+            "stars": 2343,
             "topics": [
               "api",
               "apollo-graphql",
@@ -396,7 +396,7 @@
             "id": 661287015,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T02:00:10Z",
+            "last_commit": "2026-09-17T06:40:18Z",
             "open_issues": 2,
             "owner": "apitally",
             "repo": "apitally-py",
@@ -461,8 +461,8 @@
             "id": 92946971,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T11:59:17Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-16T21:36:40Z",
+            "open_issues": 97,
             "owner": "Kludex",
             "repo": "uvicorn",
             "stars": 10966,
@@ -836,7 +836,7 @@
             "open_issues": 41,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5645,
+            "stars": 5650,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:30:00.699Z",
+    "last_updated": "2026-09-17T08:34:46.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
