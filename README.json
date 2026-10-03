@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T11:36:38Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 102772,
+            "stars": 102781,
             "topics": [
               "api",
               "async",
@@ -396,7 +396,7 @@
             "id": 661287015,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:50:43Z",
+            "last_commit": "2026-10-03T05:20:04Z",
             "open_issues": 2,
             "owner": "apitally",
             "repo": "apitally-py",
@@ -465,7 +465,7 @@
             "open_issues": 108,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11003,
+            "stars": 11005,
             "topics": [
               "asgi",
               "asyncio",
@@ -836,7 +836,7 @@
             "open_issues": 47,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5681,
+            "stars": 5682,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:33:21.003Z",
+    "last_updated": "2026-10-03T09:03:40.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
