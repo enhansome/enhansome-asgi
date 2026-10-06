@@ -462,7 +462,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T07:48:50Z",
-            "open_issues": 112,
+            "open_issues": 111,
             "owner": "Kludex",
             "repo": "uvicorn",
             "stars": 11009,
@@ -836,7 +836,7 @@
             "open_issues": 47,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5683,
+            "stars": 5684,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:07:16.863Z",
+    "last_updated": "2026-10-06T10:23:53.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",

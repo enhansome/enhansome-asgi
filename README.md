@@ -107,7 +107,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) ⭐ 11,009 | 🐛 112 | 🌐 Python | 📅 2026-10-02 - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
+* [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) ⭐ 11,009 | 🐛 111 | 🌐 Python | 📅 2026-10-02 - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
 * [asgiproxy](https://github.com/valohai/asgiproxy) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2025-08-04 – Tools for building HTTP and Websocket proxies for ASGI.
 * [asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib) ⭐ 23 | 🐛 5 | 🌐 Python | 📅 2025-07-14 - An ASGI function for proxying to a backend over HTTP.
 
@@ -224,7 +224,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [Granian](https://github.com/emmett-framework/granian) ⭐ 5,683 | 🐛 47 | 🌐 Rust | 📅 2026-10-01 - A high performance Rust HTTP server for Python applications supporting ASGI/3 ASGI/3, RSGI and WSGI interfaces. Currenlty implementing HTTP 1 and 2 (eventually 3), HTTPS and websockets.
+* [Granian](https://github.com/emmett-framework/granian) ⭐ 5,684 | 🐛 47 | 🌐 Rust | 📅 2026-10-01 - A high performance Rust HTTP server for Python applications supporting ASGI/3 ASGI/3, RSGI and WSGI interfaces. Currenlty implementing HTTP 1 and 2 (eventually 3), HTTPS and websockets.
 * [Daphne](http://github.com/django/daphne) ⭐ 2,686 | 🐛 41 | 🌐 Python | 📅 2026-10-05 - An HTTP, HTTP2 and WebSocket protocol server for ASGI, developed to power Django Channels.
 * [Hypercorn](https://github.com/pgjones/hypercorn) ⭐ 1,616 | 🐛 159 | 🌐 Python | 📅 2025-11-08 - An ASGI server based on the sans-io hyper, h11, h2, and wsproto libraries. Supports HTTP/1, HTTP/2, WebSockets, ASGI 2.0 and ASGI 3.0. Compatible with asyncio, uvloop and trio worker types.
 * [Uvicorn](https://www.uvicorn.org/) - A fast ASGI server based on uvloop and httptools. Supports HTTP/1 and WebSockets.
