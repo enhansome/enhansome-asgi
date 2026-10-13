@@ -41,9 +41,9 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 103,034 | 🐛 88 | 🌐 Python | 📅 2026-10-08 - A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.
-* [Litestar](https://litestar.dev/) - A [high-performance](https://docs.litestar.dev/latest/benchmarks.html) ASGI framework, which offers [msgspec-based](https://github.com/jcrist/msgspec) ⭐ 4,161 | 🐛 235 | 🌐 Python | 📅 2026-10-12 message parsing, Depdency-Injection, Authentication, OpenAPI docs, and more. Supports HTTP and Websockets. Supports asyncio and trio.
-* [BlackSheep](https://github.com/Neoteroi/BlackSheep) ⭐ 2,360 | 🐛 7 | 🌐 Python | 📅 2026-10-11 - BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 103,056 | 🐛 88 | 🌐 Python | 📅 2026-10-08 - A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.
+* [Litestar](https://litestar.dev/) - A [high-performance](https://docs.litestar.dev/latest/benchmarks.html) ASGI framework, which offers [msgspec-based](https://github.com/jcrist/msgspec) ⭐ 4,162 | 🐛 235 | 🌐 Python | 📅 2026-10-13 message parsing, Depdency-Injection, Authentication, OpenAPI docs, and more. Supports HTTP and Websockets. Supports asyncio and trio.
+* [BlackSheep](https://github.com/Neoteroi/BlackSheep) ⭐ 2,360 | 🐛 7 | 🌐 Python | 📅 2026-10-12 - BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.
 * [Guillotina](https://github.com/plone/guillotina) ⭐ 208 | 🐛 64 | 🌐 Python | 📅 2026-09-29 - Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.
 * [Tremolo](https://github.com/nggit/tremolo/) ⭐ 134 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - Zero dependency ASGI server and web framework for Python. Request and response limits, bandwidth throttling, resumable downloads, multipart form uploads / streaming downloads, worker reloading. Only 2,500 lines with a focus on minimalism and stability.
 * [Asgineer](https://github.com/almarklein/asgineer) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2025-11-07 - A really thin ASGI web framework, which includes support for long polling, SSE and websockets.
@@ -74,7 +74,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [Datasette](https://github.com/simonw/datasette/) ⭐ 11,513 | 🐛 692 | 🌐 Python | 📅 2026-10-08 - A tool for exploring and publishing data, including ASGI-compatible components and plugins.
+* [Datasette](https://github.com/simonw/datasette/) ⭐ 11,513 | 🐛 691 | 🌐 Python | 📅 2026-10-13 - A tool for exploring and publishing data, including ASGI-compatible components and plugins.
 * [ASGIWebDAV](https://github.com/rexzhang/asgi-webdav) ⭐ 90 | 🐛 11 | 🌐 Python | 📅 2026-10-10 - An asynchronous WebDAV server implementation. Support multi-provider, multi-account and permission control.
 
 ## GraphQL
@@ -94,7 +94,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 <!-- sort_by:name -->
 
 * [asgi-correlation-id](https://github.com/snok/asgi-correlation-id) ⭐ 642 | 🐛 4 | 🌐 Python | 📅 2026-06-09 - Request/Correlation ID logging middleware
-* [Apitally](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2026-10-12 - Simple, privacy-focused API monitoring, analytics and request logging for popular ASGI frameworks (including FastAPI, Django, Starlette, Litestar).
+* [Apitally](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2026-10-13 - Simple, privacy-focused API monitoring, analytics and request logging for popular ASGI frameworks (including FastAPI, Django, Starlette, Litestar).
 * [timing-asgi](https://github.com/steinnes/timing-asgi) ⭐ 127 | 🐛 4 | 🌐 Python | 📅 2026-02-17 - ASGI middleware to record and emit timing metrics.
 * [New Relic ASGI](https://docs.newrelic.com/docs/agents/python-agent/python-agent-api/asgiapplication-python-agent-api) - New Relic integration for ASGI applications. (Shipped with `newrelic`.)
 * [opentelemetry-python](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/asgi/asgi.html) - ASGI middleware and helpers for collecting application metrics via the (currently alpha) OpenTelemetry standard. Supports HTTP and WebSocket.
@@ -107,7 +107,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) ⭐ 11,009 | 🐛 99 | 🌐 Python | 📅 2026-10-11 - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
+* [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) ⭐ 11,011 | 🐛 100 | 🌐 Python | 📅 2026-10-11 - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
 * [asgiproxy](https://github.com/valohai/asgiproxy) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2025-08-04 – Tools for building HTTP and Websocket proxies for ASGI.
 * [asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib) ⭐ 23 | 🐛 5 | 🌐 Python | 📅 2025-07-14 - An ASGI function for proxying to a backend over HTTP.
 
@@ -146,7 +146,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [asgiref](https://github.com/django/asgiref) ⭐ 1,632 | 🐛 64 | 🌐 Python | 📅 2026-10-11 - ASGI reference implementation, including function wrappers, server base classes, type hints, and a WSGI-to-ASGI adapter.
+* [asgiref](https://github.com/django/asgiref) ⭐ 1,633 | 🐛 66 | 🌐 Python | 📅 2026-10-11 - ASGI reference implementation, including function wrappers, server base classes, type hints, and a WSGI-to-ASGI adapter.
 * [ASGI Documentation](https://asgi.readthedocs.io) - Documentation site for the ASGI specification.
 
 ### Talks
@@ -241,4 +241,4 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
