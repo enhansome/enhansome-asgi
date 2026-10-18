@@ -41,9 +41,9 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 103,158 | 🐛 81 | 🌐 Python | 📅 2026-10-16 - A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.
-* [Litestar](https://litestar.dev/) - A [high-performance](https://docs.litestar.dev/latest/benchmarks.html) ASGI framework, which offers [msgspec-based](https://github.com/jcrist/msgspec) ⭐ 4,172 | 🐛 240 | 🌐 Python | 📅 2026-10-16 message parsing, Depdency-Injection, Authentication, OpenAPI docs, and more. Supports HTTP and Websockets. Supports asyncio and trio.
-* [BlackSheep](https://github.com/Neoteroi/BlackSheep) ⭐ 2,360 | 🐛 8 | 🌐 Python | 📅 2026-10-12 - BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.
+* [FastAPI](https://github.com/tiangolo/fastapi) ⭐ 103,186 | 🐛 83 | 🌐 Python | 📅 2026-10-17 - A modern, high-performance web framework for building APIs with Python 3.6+ based on standard Python type hints. Powered by Starlette and Pydantic. Supports HTTP and WebSockets.
+* [Litestar](https://litestar.dev/) - A [high-performance](https://docs.litestar.dev/latest/benchmarks.html) ASGI framework, which offers [msgspec-based](https://github.com/jcrist/msgspec) ⭐ 4,172 | 🐛 241 | 🌐 Python | 📅 2026-10-16 message parsing, Depdency-Injection, Authentication, OpenAPI docs, and more. Supports HTTP and Websockets. Supports asyncio and trio.
+* [BlackSheep](https://github.com/Neoteroi/BlackSheep) ⭐ 2,359 | 🐛 8 | 🌐 Python | 📅 2026-10-17 - BlackSheep is an asynchronous web framework to build event based web applications with Python. It is inspired by Flask, ASP.NET Core, and the work by Yury Selivanov.
 * [Guillotina](https://github.com/plone/guillotina) ⭐ 208 | 🐛 64 | 🌐 Python | 📅 2026-09-29 - Full-featured ASGI-compatible REST application framework, designed for high performance and horizontally scaling solutions.
 * [Tremolo](https://github.com/nggit/tremolo/) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - Zero dependency ASGI server and web framework for Python. Request and response limits, bandwidth throttling, resumable downloads, multipart form uploads / streaming downloads, worker reloading. Only 2,500 lines with a focus on minimalism and stability.
 * [Asgineer](https://github.com/almarklein/asgineer) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2025-11-07 - A really thin ASGI web framework, which includes support for long polling, SSE and websockets.
@@ -75,7 +75,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 <!-- sort_by:name -->
 
 * [Datasette](https://github.com/simonw/datasette/) ⭐ 11,515 | 🐛 699 | 🌐 Python | 📅 2026-10-13 - A tool for exploring and publishing data, including ASGI-compatible components and plugins.
-* [ASGIWebDAV](https://github.com/rexzhang/asgi-webdav) ⭐ 90 | 🐛 11 | 🌐 Python | 📅 2026-10-17 - An asynchronous WebDAV server implementation. Support multi-provider, multi-account and permission control.
+* [ASGIWebDAV](https://github.com/rexzhang/asgi-webdav) ⭐ 90 | 🐛 11 | 🌐 Python | 📅 2026-10-18 - An asynchronous WebDAV server implementation. Support multi-provider, multi-account and permission control.
 
 ## GraphQL
 
@@ -107,7 +107,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) ⭐ 11,018 | 🐛 106 | 🌐 Python | 📅 2026-10-11 - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
+* [ProxyHeadersMiddleware](https://github.com/encode/uvicorn/blob/master/uvicorn/middleware/proxy_headers.py) ⭐ 11,018 | 🐛 106 | 🌐 Python | 📅 2026-10-18 - Use `X-Forwarded-Proto` and `X-Forwarded-For` headers set by a known and trusted proxy to make `client` and `scheme` reference the connecting client (shipped with Uvicorn).
 * [asgiproxy](https://github.com/valohai/asgiproxy) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2025-08-04 – Tools for building HTTP and Websocket proxies for ASGI.
 * [asgi-proxy-lib](https://github.com/simonw/asgi-proxy-lib) ⭐ 23 | 🐛 5 | 🌐 Python | 📅 2025-07-14 - An ASGI function for proxying to a backend over HTTP.
 
@@ -224,7 +224,7 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 <!-- sort_by:name -->
 
-* [Granian](https://github.com/emmett-framework/granian) ⭐ 5,704 | 🐛 55 | 🌐 Rust | 📅 2026-10-07 - A high performance Rust HTTP server for Python applications supporting ASGI/3 ASGI/3, RSGI and WSGI interfaces. Currenlty implementing HTTP 1 and 2 (eventually 3), HTTPS and websockets.
+* [Granian](https://github.com/emmett-framework/granian) ⭐ 5,706 | 🐛 55 | 🌐 Rust | 📅 2026-10-07 - A high performance Rust HTTP server for Python applications supporting ASGI/3 ASGI/3, RSGI and WSGI interfaces. Currenlty implementing HTTP 1 and 2 (eventually 3), HTTPS and websockets.
 * [Daphne](http://github.com/django/daphne) ⭐ 2,687 | 🐛 41 | 🌐 Python | 📅 2026-10-05 - An HTTP, HTTP2 and WebSocket protocol server for ASGI, developed to power Django Channels.
 * [Hypercorn](https://github.com/pgjones/hypercorn) ⭐ 1,619 | 🐛 160 | 🌐 Python | 📅 2025-11-08 - An ASGI server based on the sans-io hyper, h11, h2, and wsproto libraries. Supports HTTP/1, HTTP/2, WebSockets, ASGI 2.0 and ASGI 3.0. Compatible with asyncio, uvloop and trio worker types.
 * [Uvicorn](https://www.uvicorn.org/) - A fast ASGI server based on uvloop and httptools. Supports HTTP/1 and WebSockets.
@@ -241,4 +241,4 @@ Born in 2016 to power the Django Channels project, ASGI and its ecosystem have b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
