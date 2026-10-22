@@ -15,11 +15,11 @@
             "id": 160919119,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T08:26:54Z",
-            "open_issues": 71,
+            "last_commit": "2026-10-21T20:59:13Z",
+            "open_issues": 56,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 103301,
+            "stars": 103366,
             "topics": [
               "api",
               "async",
@@ -61,7 +61,7 @@
             "open_issues": 241,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4176,
+            "stars": 4180,
             "topics": [
               "deserialization",
               "json",
@@ -237,7 +237,7 @@
             "open_issues": 702,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11519,
+            "stars": 11520,
             "topics": [
               "asgi",
               "automatic-api",
@@ -461,11 +461,11 @@
             "id": 92946971,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T09:48:18Z",
-            "open_issues": 114,
+            "last_commit": "2026-10-21T13:37:05Z",
+            "open_issues": 118,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11020,
+            "stars": 11024,
             "topics": [
               "asgi",
               "asyncio",
@@ -833,10 +833,10 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-20T10:52:37Z",
-            "open_issues": 49,
+            "open_issues": 52,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5721,
+            "stars": 5731,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:28:21.581Z",
+    "last_updated": "2026-10-22T08:30:35.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
@@ -975,7 +975,7 @@
       "open_issues": 19,
       "owner": "florimondmanca",
       "repo": "awesome-asgi",
-      "stars": 1847,
+      "stars": 1846,
       "topics": [
         "asgi",
         "awesome",
