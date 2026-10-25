@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T23:46:14Z",
-            "open_issues": 60,
+            "open_issues": 63,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104066,
+            "stars": 104104,
             "topics": [
               "api",
               "async",
@@ -58,7 +58,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-23T15:20:15Z",
-            "open_issues": 243,
+            "open_issues": 247,
             "owner": "msgspec",
             "repo": "msgspec",
             "stars": 4183,
@@ -97,7 +97,7 @@
             "open_issues": 8,
             "owner": "Neoteroi",
             "repo": "BlackSheep",
-            "stars": 2359,
+            "stars": 2358,
             "topics": [
               "asgi",
               "asyncio",
@@ -128,7 +128,7 @@
             "open_issues": 64,
             "owner": "plone",
             "repo": "guillotina",
-            "stars": 208,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
@@ -234,10 +234,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T13:04:41Z",
-            "open_issues": 703,
+            "open_issues": 704,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11521,
+            "stars": 11522,
             "topics": [
               "asgi",
               "automatic-api",
@@ -461,11 +461,11 @@
             "id": 92946971,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-21T13:37:05Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-25T08:08:40Z",
+            "open_issues": 110,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11034,
+            "stars": 11035,
             "topics": [
               "asgi",
               "asyncio",
@@ -723,7 +723,7 @@
             "open_issues": 5,
             "owner": "abersheeran",
             "repo": "asgi-ratelimit",
-            "stars": 344,
+            "stars": 343,
             "topics": [
               "asgi",
               "asgi-middleware",
@@ -833,10 +833,10 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-22T18:21:09Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5738,
+            "stars": 5743,
             "topics": [
               "asgi",
               "asyncio",
@@ -887,7 +887,7 @@
             "open_issues": 160,
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1620,
+            "stars": 1619,
             "topics": [
               "asgi",
               "asyncio",
@@ -947,7 +947,7 @@
             "open_issues": 15,
             "owner": "vinissimus",
             "repo": "async-asgi-testclient",
-            "stars": 161,
+            "stars": 160,
             "topics": [
               "asgi",
               "guillotina",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:02:18.381Z",
+    "last_updated": "2026-10-25T08:19:09.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
@@ -972,10 +972,10 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-05-02T09:00:14Z",
-      "open_issues": 20,
+      "open_issues": 19,
       "owner": "florimondmanca",
       "repo": "awesome-asgi",
-      "stars": 1846,
+      "stars": 1845,
       "topics": [
         "asgi",
         "awesome",
