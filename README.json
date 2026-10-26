@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T23:46:14Z",
-            "open_issues": 63,
+            "open_issues": 62,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104104,
+            "stars": 104196,
             "topics": [
               "api",
               "async",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-23T15:20:15Z",
-            "open_issues": 247,
+            "open_issues": 248,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4183,
+            "stars": 4185,
             "topics": [
               "deserialization",
               "json",
@@ -234,10 +234,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T13:04:41Z",
-            "open_issues": 704,
+            "open_issues": 708,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11522,
+            "stars": 11524,
             "topics": [
               "asgi",
               "automatic-api",
@@ -461,11 +461,11 @@
             "id": 92946971,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T08:08:40Z",
-            "open_issues": 110,
+            "last_commit": "2026-10-25T13:37:00Z",
+            "open_issues": 105,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11035,
+            "stars": 11040,
             "topics": [
               "asgi",
               "asyncio",
@@ -551,7 +551,7 @@
                 "open_issues": 68,
                 "owner": "django",
                 "repo": "asgiref",
-                "stars": 1634,
+                "stars": 1636,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
@@ -863,10 +863,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-05T20:21:07Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "django",
             "repo": "daphne",
-            "stars": 2687,
+            "stars": 2688,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
@@ -887,7 +887,7 @@
             "open_issues": 160,
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:19:09.041Z",
+    "last_updated": "2026-10-26T08:47:00.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
