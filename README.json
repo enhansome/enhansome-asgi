@@ -15,11 +15,11 @@
             "id": 160919119,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T23:46:14Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-27T04:56:28Z",
+            "open_issues": 58,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104196,
+            "stars": 104253,
             "topics": [
               "api",
               "async",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-23T15:20:15Z",
-            "open_issues": 248,
+            "open_issues": 251,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4185,
+            "stars": 4186,
             "topics": [
               "deserialization",
               "json",
@@ -234,7 +234,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T13:04:41Z",
-            "open_issues": 708,
+            "open_issues": 709,
             "owner": "simonw",
             "repo": "datasette",
             "stars": 11524,
@@ -465,7 +465,7 @@
             "open_issues": 105,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11040,
+            "stars": 11043,
             "topics": [
               "asgi",
               "asyncio",
@@ -551,7 +551,7 @@
                 "open_issues": 68,
                 "owner": "django",
                 "repo": "asgiref",
-                "stars": 1636,
+                "stars": 1637,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:00.979Z"
@@ -805,8 +805,8 @@
             "id": 267262603,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T13:55:00Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T08:07:38Z",
+            "open_issues": 3,
             "owner": "fullonic",
             "repo": "brotli-asgi",
             "stars": 86,
@@ -833,10 +833,10 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-22T18:21:09Z",
-            "open_issues": 56,
+            "open_issues": 59,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5743,
+            "stars": 5746,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:47:00.082Z",
+    "last_updated": "2026-10-27T08:52:53.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
@@ -975,7 +975,7 @@
       "open_issues": 19,
       "owner": "florimondmanca",
       "repo": "awesome-asgi",
-      "stars": 1845,
+      "stars": 1846,
       "topics": [
         "asgi",
         "awesome",
