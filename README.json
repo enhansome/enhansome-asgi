@@ -19,7 +19,7 @@
             "open_issues": 60,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104419,
+            "stars": 104448,
             "topics": [
               "api",
               "async",
@@ -57,8 +57,8 @@
             "id": 332952543,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T13:33:01Z",
-            "open_issues": 257,
+            "last_commit": "2026-11-05T13:45:57Z",
+            "open_issues": 255,
             "owner": "msgspec",
             "repo": "msgspec",
             "stars": 4210,
@@ -97,7 +97,7 @@
             "open_issues": 10,
             "owner": "Neoteroi",
             "repo": "BlackSheep",
-            "stars": 2358,
+            "stars": 2359,
             "topics": [
               "asgi",
               "asyncio",
@@ -233,8 +233,8 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T13:04:57Z",
-            "open_issues": 720,
+            "last_commit": "2026-11-06T09:26:04Z",
+            "open_issues": 719,
             "owner": "simonw",
             "repo": "datasette",
             "stars": 11544,
@@ -465,7 +465,7 @@
             "open_issues": 108,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11068,
+            "stars": 11069,
             "topics": [
               "asgi",
               "asyncio",
@@ -836,7 +836,7 @@
             "open_issues": 54,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5765,
+            "stars": 5768,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T10:44:10.825Z",
+    "last_updated": "2026-11-06T10:43:09.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
