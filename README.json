@@ -15,11 +15,11 @@
             "id": 160919119,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T18:01:45Z",
+            "last_commit": "2026-11-10T09:08:15Z",
             "open_issues": 59,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104589,
+            "stars": 104608,
             "topics": [
               "api",
               "async",
@@ -57,11 +57,11 @@
             "id": 332952543,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-08T17:10:18Z",
-            "open_issues": 256,
+            "last_commit": "2026-11-10T09:11:37Z",
+            "open_issues": 254,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4215,
+            "stars": 4217,
             "topics": [
               "deserialization",
               "json",
@@ -237,7 +237,7 @@
             "open_issues": 694,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11551,
+            "stars": 11554,
             "topics": [
               "asgi",
               "automatic-api",
@@ -267,7 +267,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T16:01:30Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "rexzhang",
             "repo": "asgi-webdav",
             "stars": 90,
@@ -371,7 +371,7 @@
             "open_issues": 4,
             "owner": "snok",
             "repo": "asgi-correlation-id",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "celery",
               "correlation-id",
@@ -465,7 +465,7 @@
             "open_issues": 107,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11078,
+            "stars": 11080,
             "topics": [
               "asgi",
               "asyncio",
@@ -579,7 +579,7 @@
                 "open_issues": 20,
                 "owner": "klen",
                 "repo": "py-frameworks-bench",
-                "stars": 721,
+                "stars": 722,
                 "topics": [
                   "benchmark",
                   "python-frameworks"
@@ -836,7 +836,7 @@
             "open_issues": 58,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5771,
+            "stars": 5774,
             "topics": [
               "asgi",
               "asyncio",
@@ -866,7 +866,7 @@
             "open_issues": 43,
             "owner": "django",
             "repo": "daphne",
-            "stars": 2687,
+            "stars": 2688,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:00.979Z"
@@ -887,7 +887,7 @@
             "open_issues": 163,
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "asgi",
               "asyncio",
@@ -963,7 +963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T11:20:40.315Z",
+    "last_updated": "2026-11-10T11:00:20.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
