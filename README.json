@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T19:14:19Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104893,
+            "stars": 104968,
             "topics": [
               "api",
               "async",
@@ -51,8 +51,8 @@
             "id": 332952543,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T10:25:09Z",
-            "open_issues": 249,
+            "last_commit": "2026-11-20T09:41:41Z",
+            "open_issues": 251,
             "owner": "msgspec",
             "repo": "msgspec",
             "stars": 4228,
@@ -91,7 +91,7 @@
             "open_issues": 11,
             "owner": "Neoteroi",
             "repo": "BlackSheep",
-            "stars": 2359,
+            "stars": 2358,
             "topics": [
               "asgi",
               "asyncio",
@@ -143,7 +143,7 @@
             "open_issues": 1,
             "owner": "nggit",
             "repo": "tremolo",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "asgi",
               "asgi-server",
@@ -227,11 +227,11 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T00:05:31Z",
-            "open_issues": 663,
+            "last_commit": "2026-11-20T03:29:19Z",
+            "open_issues": 662,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11608,
+            "stars": 11617,
             "topics": [
               "asgi",
               "automatic-api",
@@ -297,7 +297,7 @@
             "open_issues": 40,
             "owner": "mirumee",
             "repo": "ariadne",
-            "stars": 2348,
+            "stars": 2347,
             "topics": [
               "api",
               "apollo-graphql",
@@ -365,7 +365,7 @@
             "open_issues": 4,
             "owner": "snok",
             "repo": "asgi-correlation-id",
-            "stars": 644,
+            "stars": 643,
             "topics": [
               "celery",
               "correlation-id",
@@ -459,7 +459,7 @@
             "open_issues": 107,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11112,
+            "stars": 11118,
             "topics": [
               "asgi",
               "asyncio",
@@ -542,7 +542,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-06T14:02:54Z",
-                "open_issues": 80,
+                "open_issues": 82,
                 "owner": "django",
                 "repo": "asgiref",
                 "stars": 1638,
@@ -573,7 +573,7 @@
                 "open_issues": 20,
                 "owner": "klen",
                 "repo": "py-frameworks-bench",
-                "stars": 722,
+                "stars": 721,
                 "topics": [
                   "benchmark",
                   "python-frameworks"
@@ -827,10 +827,10 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-18T16:17:32Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5796,
+            "stars": 5795,
             "topics": [
               "asgi",
               "asyncio",
@@ -881,7 +881,7 @@
             "open_issues": 167,
             "owner": "pgjones",
             "repo": "hypercorn",
-            "stars": 1623,
+            "stars": 1622,
             "topics": [
               "asgi",
               "asyncio",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T11:29:03.742Z",
+    "last_updated": "2026-11-20T11:23:56.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
@@ -969,7 +969,7 @@
       "open_issues": 22,
       "owner": "florimondmanca",
       "repo": "awesome-asgi",
-      "stars": 1849,
+      "stars": 1848,
       "topics": [
         "asgi",
         "awesome",
