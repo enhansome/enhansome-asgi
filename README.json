@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 104986,
+            "stars": 104995,
             "topics": [
               "api",
               "async",
@@ -51,11 +51,11 @@
             "id": 332952543,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T17:04:00Z",
-            "open_issues": 252,
+            "last_commit": "2026-11-21T20:25:58Z",
+            "open_issues": 255,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4228,
+            "stars": 4229,
             "topics": [
               "deserialization",
               "json",
@@ -227,11 +227,11 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T20:11:32Z",
-            "open_issues": 663,
+            "last_commit": "2026-11-22T05:54:42Z",
+            "open_issues": 658,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11626,
+            "stars": 11633,
             "topics": [
               "asgi",
               "automatic-api",
@@ -459,7 +459,7 @@
             "open_issues": 107,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11123,
+            "stars": 11130,
             "topics": [
               "asgi",
               "asyncio",
@@ -827,10 +827,10 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-20T14:23:03Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5795,
+            "stars": 5796,
             "topics": [
               "asgi",
               "asyncio",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:53:17.967Z",
+    "last_updated": "2026-11-22T11:08:01.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
