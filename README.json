@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "fastapi",
             "repo": "fastapi",
-            "stars": 105016,
+            "stars": 105047,
             "topics": [
               "api",
               "async",
@@ -52,10 +52,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-25T07:34:41Z",
-            "open_issues": 247,
+            "open_issues": 250,
             "owner": "msgspec",
             "repo": "msgspec",
-            "stars": 4231,
+            "stars": 4232,
             "topics": [
               "deserialization",
               "json",
@@ -118,7 +118,7 @@
             "id": 83574500,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T10:24:11Z",
+            "last_commit": "2026-11-25T12:58:56Z",
             "open_issues": 65,
             "owner": "plone",
             "repo": "guillotina",
@@ -227,11 +227,11 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T16:45:19Z",
-            "open_issues": 632,
+            "last_commit": "2026-11-26T05:41:38Z",
+            "open_issues": 637,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11655,
+            "stars": 11670,
             "topics": [
               "asgi",
               "automatic-api",
@@ -459,7 +459,7 @@
             "open_issues": 109,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11147,
+            "stars": 11156,
             "topics": [
               "asgi",
               "asyncio",
@@ -830,7 +830,7 @@
             "open_issues": 53,
             "owner": "emmett-framework",
             "repo": "granian",
-            "stars": 5799,
+            "stars": 5802,
             "topics": [
               "asgi",
               "asyncio",
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T12:40:23.957Z",
+    "last_updated": "2026-11-26T12:16:16.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources",
